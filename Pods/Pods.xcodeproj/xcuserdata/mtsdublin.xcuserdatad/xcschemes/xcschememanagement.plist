@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Braintree-Braintree-3D-Secure-Localization.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Braintree.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>BraintreeDropIn-Braintree-UIKit-Localization.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>BraintreeDropIn.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-DropIn.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>50CD2BB17924291CE455681239CFEB17</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7EDA309897645320C49BB954A72C4923</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CA4FD1AD7C4541337DFD121BC6E3C5BE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EC77F4C14583F30D0B4D22DB050D99E9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FFC89A82BC15A4A0A06D26F74BF64830</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

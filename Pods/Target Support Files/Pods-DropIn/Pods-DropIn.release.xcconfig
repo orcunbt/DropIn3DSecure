@@ -1,0 +1,8 @@
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/Braintree" "${PODS_ROOT}/Headers/Public/BraintreeDropIn"
+LIBRARY_SEARCH_PATHS = $(inherited) "$PODS_CONFIGURATION_BUILD_DIR/Braintree" "$PODS_CONFIGURATION_BUILD_DIR/BraintreeDropIn" $(inherited) "${PODS_ROOT}/Braintree/BraintreePayPal/PayPalDataCollector/Risk"
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/Braintree" -isystem "${PODS_ROOT}/Headers/Public/BraintreeDropIn"
+OTHER_LDFLAGS = $(inherited) -ObjC -l"Braintree" -l"BraintreeDropIn" -l"PPRiskComponent" -l"c++" -framework "AddressBook" -framework "CoreLocation" -framework "MessageUI" -framework "PassKit" -framework "SystemConfiguration" -framework "UIKit" -weak_framework "Contacts" -weak_framework "SafariServices"
+PODS_BUILD_DIR = $BUILD_DIR
+PODS_CONFIGURATION_BUILD_DIR = $PODS_BUILD_DIR/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_ROOT = ${SRCROOT}/Pods

@@ -1,0 +1,1 @@
+../../../Braintree/BraintreeUnionPay/Public/BTCardClient+UnionPay.h
